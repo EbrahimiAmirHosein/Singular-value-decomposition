@@ -326,15 +326,14 @@ void SVD(double A[][N])
     }
 }
 
-// printf("A_T : %f " ,A_T[1][2]);
 
-int main()
-{
-    double B[N][N] = {
-        {7, 2, 9},
-        {1, 2, 3},
-        {5, 3, 1}};
-    SVD(B);
+// int main()
+// {
+//     double B[N][N] = {
+//         {7, 2, 9},
+//         {1, 2, 3},
+//         {5, 3, 1}};
+//     SVD(B);
 
-    return 0;
-}
+//     return 0;
+// }
