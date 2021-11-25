@@ -42,4 +42,4 @@ calculate SVD Singular value decomposition in c without any library:
                            
                                        A_next = A-(singular_value₁)(u₁)(v₁)ᵗ
                                        
-  This algorithm was created for personal purpose , Implementing SFA and NICA algorith , all other explanation needed are described in code.
+  This algorithm was created for personal purpose , Implementing SFA and NICA algorithm , all other explanation needed are described in code.
